@@ -1,0 +1,11 @@
+Doctor_ID,Department,Date,Available_Hours,Booked_Hours
+201,Cardiology,2025-01-01,8,6
+202,Cardiology,2025-01-02,8,7
+203,Cardiology,2025-01-03,8,8
+204,Cardiology,2025-01-04,8,6
+205,Cardiology,2025-01-05,8,7
+206,Cardiology,2025-01-06,8,8
+207,Cardiology,2025-01-07,8,7
+208,Cardiology,2025-01-08,8,6
+209,Cardiology,2025-01-09,8,7
+210,Cardiology,2025-01-10,8,8

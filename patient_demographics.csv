@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,Insurance_Type,Branch
+1,25,M,Private,Branch A
+2,34,F,Government,Branch B
+3,45,M,Private,Branch A
+4,60,F,Government,Branch B
+5,72,M,Private,Branch A
+6,18,F,Government,Branch B
+7,29,M,Private,Branch A
+8,40,F,Government,Branch B
+9,55,M,Private,Branch A
+10,66,F,Government,Branch B
+11,31,M,Private,Branch A
+12,47,F,Government,Branch B
+13,52,M,Private,Branch A
+14,63,F,Government,Branch B
+15,70,M,Private,Branch A
+16,22,F,Government,Branch B
+17,36,M,Private,Branch A
+18,48,F,Government,Branch B
+19,58,M,Private,Branch A
+20,69,F,Government,Branch B
